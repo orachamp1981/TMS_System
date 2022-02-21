@@ -1,0 +1,1 @@
+exp sir/sir file=e:\sir.dmp
